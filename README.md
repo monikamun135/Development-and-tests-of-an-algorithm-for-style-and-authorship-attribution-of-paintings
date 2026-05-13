@@ -16,7 +16,7 @@ data_prep_fin.ipynb - file containing the code with the data preparation stage, 
 (since the idea of this project was to utilize fragments of paintings for the classification)
 
 A few available sources of paintings were used as a dataset in this project: 
-Kaggle dataset (https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time), 
-Wikiart paintings (https://www.wikiart.org/), 
-Wikipedia paintings (https://commons.wikimedia.org/),
-museums' online archives (https://www.arthistoryproject.com/about/, https://totallyhistory.com/)
+- Kaggle dataset (https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time), 
+- Wikiart paintings (https://www.wikiart.org/), 
+- Wikipedia paintings (https://commons.wikimedia.org/),
+- museums' online archives (https://www.arthistoryproject.com/about/, https://totallyhistory.com/)
